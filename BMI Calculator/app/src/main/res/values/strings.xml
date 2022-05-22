@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="txt_tv1">Enter Your Weight :</string>
+    <string name="txt_tv2">Enter Your Height :</string>
+    <string name="hint_et1">Weight(Kg)</string>
+    <string name="hint_et2">Height(cm)</string>
+    <string name="btn_bmi">BMI</string>
+    <string name="btn_res">Reset</string>
+    <string name="result">Result :</string>
+    <string name="dot">. . .</string>
+</resources>
